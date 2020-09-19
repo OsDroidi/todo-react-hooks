@@ -1,3 +1,8 @@
+// ToDo Next
+// * Add Local Storge
+// * Dark Mode
+// * click to put storke inside text
+
 import React, { useState } from "react";
 import "react-bulma-components/dist/react-bulma-components.min.css";
 

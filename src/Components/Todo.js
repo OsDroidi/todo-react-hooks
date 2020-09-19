@@ -5,7 +5,7 @@ function Todo(props) {
     <div className="list-item">
       {props.content}
       <button
-        class="delete is-pulled-right"
+        className="delete is-pulled-right"
         onClick={() => {
           props.onDelete(props.id);
         }}
